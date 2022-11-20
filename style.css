@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;500;600;&display=swap');
 
 
 :root{
@@ -148,7 +148,7 @@ footer{
     border-radius: 5px;
     margin-bottom: 10px;
     overflow: visible;
-    box-shadow: 2px 4px 4px 1px rgba(65, 65, 65, 0.192);
+    box-shadow: 2px 4px 4px 1px rgba(65, 65, 65, 0.164);
     padding: 20px 32px 0 32px;
 }
 
