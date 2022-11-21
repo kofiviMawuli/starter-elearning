@@ -202,12 +202,12 @@ footer{
     .card{
   
         width: 80%;
-        min-height: 20vh;
+        min-height: 15vh;
         border-radius: 5px;
         margin-bottom: 10px;
         overflow: visible;
         box-shadow: 2px 4px 4px 1px rgba(0, 0, 0, 0.192);
-        padding: 20px 32px 0 32px;
+        padding: 20px 32px 10px 32px;
     }
     .active{
         box-shadow: none;
