@@ -108,7 +108,8 @@ body{
 }
 
 .image__desktop img{
-    margin-top: -80px;
+    margin-top: -50px;
+    width: 60vw;
        
 }
 
@@ -202,12 +203,12 @@ footer{
     .card{
   
         width: 80%;
-        min-height: 15vh;
+        height: 20vh;
         border-radius: 5px;
         margin-bottom: 10px;
         overflow: visible;
         box-shadow: 2px 4px 4px 1px rgba(0, 0, 0, 0.192);
-        padding: 20px 32px 10px 32px;
+        padding: 20px 32px 0 32px;
     }
     .active{
         box-shadow: none;
@@ -298,7 +299,9 @@ footer{
     }
 
     .image__tablet img{
-        margin-top: -100px;
+        margin-top: -40px;
+        width: 60vw;
+
     }
     
     .page_navbar{
