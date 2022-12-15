@@ -120,7 +120,7 @@ button:hover{
     background: linear-gradient( var(--gradientOrangeColor), var(--gradientPinkColor)) !important;
     box-shadow: none;
     color: var(--whiteColor);
-    font-size: 26px;
+    font-size: 28px;
 }
 
 .card-body{
